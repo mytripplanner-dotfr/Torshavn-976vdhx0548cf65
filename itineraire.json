@@ -1,0 +1,155 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Féroé : Tórshavn et ses paysages apaisants",
+  "budget_total": "Environ 1200-1300 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "4h30 (avec escale) depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Tórshavn et découverte de la capitale",
+      "legende": "Après un vol pittoresque, installez-vous dans la charmante capitale des Féroé. Flânez dans les ruelles historiques de Tinganes et imprégnez-vous de l'atmosphère maritime unique de Tórshavn pour une première immersion douce.",
+      "lieu": "Tórshavn",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Vágar (FAE)",
+        "<strong>🚗</strong>: Prise en charge du véhicule de location et route vers Tórshavn",
+        "<strong>🛏️</strong>: Installation à l'hôtel à Tórshavn",
+        "<strong>🚶‍♂️</strong>: Balade relaxante dans le quartier historique de Tinganes"
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet de l'aéroport de Vágar à Tórshavn dure environ 45 minutes et inclut un tunnel sous-marin payant. Prévoyez de la monnaie locale (DKK) ou une carte pour le péage."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Immersion historique et paysages bucoliques",
+      "legende": "Explorez le passé viking des Féroé à Kirkjubøur, puis laissez-vous charmer par la beauté sereine de Saksun, un village niché dans une vallée verdoyante, parfait pour une balade apaisante au bord du lagon.",
+      "lieu": "Streymoy",
+      "activites": [
+        "<strong>⛪</strong>: Visite du village historique de Kirkjubøur",
+        "<strong>🚗</strong>: Route panoramique vers Saksun",
+        "<strong>🚶‍♀️</strong>: Promenade douce dans la vallée de Saksun et son lagon"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy, Îles Féroé",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.9500, "lng": -6.7900 }
+        },
+        {
+          "nom_recherche": "Saksun, Streymoy, Îles Féroé",
+          "categorie": "Village pittoresque",
+          "coords": { "lat": 62.2500, "lng": -7.1800 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🐑",
+          "titre": "Attention aux moutons",
+          "texte": "Les routes des Féroé sont souvent partagées avec les moutons. Conduisez prudemment et soyez prêt à vous arrêter pour les laisser passer."
+        },
+        {
+          "symbole": "🌦️",
+          "titre": "Météo",
+          "texte": "Le temps aux Féroé est très changeant. Prévoyez toujours des couches de vêtements et un imperméable, même si le soleil brille au départ."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌊",
+      "titre": "Cascade emblématique et départ",
+      "legende": "Découvrez l'une des vues les plus emblématiques des Féroé avec la cascade de Múlafossur à Gásadalur, un spectacle naturel saisissant avant de prendre votre vol retour, la tête pleine de souvenirs nordiques.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🚗</strong>: Route vers l'île de Vágar",
+        "<strong>📸</strong>: Admirer la cascade de Múlafossur à Gásadalur",
+        "<strong>🍽️</strong>: Déjeuner léger près de l'aéroport",
+        "<strong>✈️</strong>: Restitution du véhicule et vol retour depuis FAE"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Múlafossur Waterfall, Gásadalur, Îles Féroé",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.1000, "lng": -7.2600 }
+        },
+        {
+          "nom_recherche": "Vágar Airport, Sørvágur, Îles Féroé",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0630, "lng": -7.2770 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil photo",
+          "texte": "La cascade de Múlafossur est particulièrement photogénique. N'oubliez pas votre appareil photo pour immortaliser ce paysage iconique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "435 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 180 €/pers (location voiture + essence + péages)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 210 €/pers (70€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 350 €/pers (2 nuits en hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (musées, sites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin à Août (meilleur temps)", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite est à droite, et les limitations de vitesse sont en km/h.", "symbole": "🚗" },
+    { "titre": "Le temps est imprévisible. Prévoyez des vêtements chauds, imperméables et coupe-vent, même en été.", "symbole": "☔" },
+    { "titre": "Les moutons sont omniprésents. Soyez vigilant sur les routes, ils ont la priorité !", "symbole": "🐑" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Aux Îles Féroé, les moutons sont plus nombreux que les habitants ! On estime qu'il y a environ 70 000 moutons pour 54 000 Féroïens, ce qui explique leur présence constante sur les paysages et parfois sur les routes."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Jusqu'en 2017, Google Street View n'existait pas aux Féroé. Pour y remédier, les habitants ont équipé des moutons de caméras à 360 degrés, créant ainsi le 'Sheepview 360' pour cartographier leurs îles !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Ræst Kjøt",
+      "description": "Un plat traditionnel à base d'agneau fermenté, séché au vent. Son goût est très prononcé et unique, une véritable expérience culinaire féroïenne."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Fiskur (Poisson frais)",
+      "description": "Avec l'océan à portée de main, le poisson frais est un incontournable. Morue, saumon ou flétan sont souvent servis simplement, grillés ou pochés, pour apprécier leur saveur naturelle."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Rabarbragrýtur (Compote de rhubarbe)",
+      "description": "La rhubarbe pousse abondamment aux Féroé. Cette compote sucrée et acidulée est un dessert réconfortant, souvent servie avec de la crème ou de la glace."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-18/2026-05-21", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Location de voiture aux Féroé", "url": "https://www.rentals.fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-252000/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" }
+  ]
+}
